@@ -1,0 +1,15 @@
+C:\Users\Gehad\source\repos\mG\mG\bin\Debug\net5.0\mG.exe
+C:\Users\Gehad\source\repos\mG\mG\bin\Debug\net5.0\mG.deps.json
+C:\Users\Gehad\source\repos\mG\mG\bin\Debug\net5.0\mG.runtimeconfig.json
+C:\Users\Gehad\source\repos\mG\mG\bin\Debug\net5.0\mG.runtimeconfig.dev.json
+C:\Users\Gehad\source\repos\mG\mG\bin\Debug\net5.0\mG.dll
+C:\Users\Gehad\source\repos\mG\mG\bin\Debug\net5.0\mG.pdb
+C:\Users\Gehad\source\repos\mG\mG\obj\Debug\net5.0\mG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gehad\source\repos\mG\mG\obj\Debug\net5.0\mG.AssemblyInfoInputs.cache
+C:\Users\Gehad\source\repos\mG\mG\obj\Debug\net5.0\mG.AssemblyInfo.cs
+C:\Users\Gehad\source\repos\mG\mG\obj\Debug\net5.0\mG.csproj.CoreCompileInputs.cache
+C:\Users\Gehad\source\repos\mG\mG\obj\Debug\net5.0\mG.dll
+C:\Users\Gehad\source\repos\mG\mG\obj\Debug\net5.0\refint\mG.dll
+C:\Users\Gehad\source\repos\mG\mG\obj\Debug\net5.0\mG.pdb
+C:\Users\Gehad\source\repos\mG\mG\obj\Debug\net5.0\mG.genruntimeconfig.cache
+C:\Users\Gehad\source\repos\mG\mG\obj\Debug\net5.0\ref\mG.dll
